@@ -20,4 +20,4 @@
 *   **类型安全:** 大量使用类型提示和 Pydantic 模型，减少运行时错误。
 *   **清晰结构:** SDK 内部模块化，易于理解和扩展。
 
-
+[文档]([https://www.runoob.com](https://qcrtimo.com/?docs=%e5%bc%80%e5%a7%8b%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84onebot%e5%ba%94%e7%94%a8-%e5%ae%9e%e4%be%8b%e5%8c%96bot%e5%af%b9%e8%b1%a1))
