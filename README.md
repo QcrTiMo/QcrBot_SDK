@@ -1,11 +1,10 @@
 # QcrBot_SDK (OneBot v11 Python SDK)
 
-<!-- 在这里可以放一个 Logo 或者简短的 Slogan -->
+
 
 **QcrBot_SDK** 是一个基于 Python `asyncio` 的 OneBot v11 SDK，旨在提供一个 **简洁、轻量、易于理解和使用** 的机器人开发框架。它封装了与 OneBot v11 实现端 (如 go-cqhttp, NapCat 等) 的 WebSocket 通信、事件处理和 API 调用，让开发者可以专注于机器人应用逻辑的实现。
 
-[![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://github.com/你的GitHub用户名/QcrBot_SDK/blob/main/LICENSE) <!-- 替换链接 -->
-<!-- 你还可以添加其他徽章，例如 PyPI 版本、构建状态等 -->
+[![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://github.com/QcrTiMo/QcrBot_SDK/blob/main/LICENSE) 
 
 ## ✨ 特性
 
